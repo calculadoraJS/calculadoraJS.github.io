@@ -83,24 +83,12 @@ h3 {
   color: #ffffff;
 }
 
-/* .calculadora-final {
-  display: block;
-  margin-left: 500px;
-  margin-right: 500px;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  max-width: 320px;
-  border-radius: 1rem;
-  padding: 1.5rem;
-  margin: 1rem;
-} */
-
 .calculadora-final {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin: 0 auto; 
+  margin: 0 auto;
   max-width: 320px;
   border-radius: 1rem;
   padding: 1.5rem;
