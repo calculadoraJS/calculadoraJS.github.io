@@ -1,0 +1,64 @@
+:root {
+    color: #a80000;
+    background-color: #1b1b1b;
+    transition: 300ms;
+}
+
+a {
+    color: #7e0000;
+    transition: 300ms;
+}
+
+a:hover {
+    color: #a80000;
+    transition: 300ms;
+}
+
+button:hover {
+    border-color: #1b1b1b;
+    transition: 300ms;
+}
+
+.number {
+    color: #1b1b1b;
+    background-color: #757575;
+    transition: 300ms;
+}
+
+.number:hover {
+    background-color: #b1b1b1;
+    transition: 300ms;
+}
+
+.operators {
+    background-color: #1b1b1b;
+    color: #cfcfcf;
+    transition: 300ms;
+}
+
+.operators:hover {
+    background-color: #000000;
+    transition: 300ms;
+}
+
+.C {
+    background-color: #a84c00;
+    color: #cfcfcf;
+    transition: 300ms;
+}
+
+.C:hover {
+    background-color: #703200;
+    transition: 300ms;
+}
+
+.display {
+    color: #a80000;
+    background-color: #1b1b1b;
+    transition: 300ms;
+}
+
+.calculadora-final {
+    background-color: #7e0000;
+    transition: 300ms;
+}
